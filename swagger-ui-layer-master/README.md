@@ -91,4 +91,4 @@ ResponseHeader
 Apache License 2.0
 
 ### 源码维护地址
-* Github ： https://github.com/caspar-chen/swagger-ui-layer
+* Github ：  https://github.com/guardianstars/swagger-ui-layer
